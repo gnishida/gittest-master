@@ -1,4 +1,4 @@
 int main() {
-	printf("hello\n");
+	printf("hello from master\n");
 	return 0;
 }
